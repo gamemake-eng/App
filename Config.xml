@@ -7,10 +7,10 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>shoot em up</name>
+  <name>shoot em</name>
 
   <description>
-    a shoot em up 
+    a shoot em up game where is shoot some thing
   </description>
 
   <author href="https://thatpythonkid--thatpythonkid.repl.co" email="onemail@gmail.com">
